@@ -19,6 +19,10 @@ Ce projet est un jeu d'infiltration développé en langage C. Le joueur incarne 
 | Sprint             | Shift (Gauche/Droite) |
 | Invisibilité       | Barre espace |
 
+## Auteurs
+- **Alex Crozat**  
+- **Nguyen Sarah**  
+
 ## Installation & Compilation  
 ### Prérequis  
 - Un compilateur C (GCC recommandé)  
